@@ -1,0 +1,25 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "crawls web sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aghudum/web-crawler.git"
+  },
+  "author": "Aghudum Okowa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aghudum/web-crawler/issues"
+  },
+  "homepage": "https://github.com/Aghudum/web-crawler#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
