@@ -1,5 +1,12 @@
 # Aggy's web crawler
 
+## Installing dependencies
+
+You need to do this before running the crawler or tests
+
+`yarn install`
+
+
 ## Running crawler
 
 Navigate to root directory and execute
