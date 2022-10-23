@@ -4,7 +4,7 @@
   "description": "crawls web sites",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "crawl": "ts-node src/index.ts"
   },
   "repository": {
